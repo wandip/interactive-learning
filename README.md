@@ -2,6 +2,12 @@
 
 An interactive educational video platform that transforms YouTube videos into engaging learning experiences. The platform segments videos into logical chapters and generates interactive coding playgrounds and quizzes for each segment.
 
+![Homepage](assets/homepage.png)
+*Homepage with saved courses*
+
+![Course View](assets/course_view.png)
+*Interactive learning view with video and quiz*
+
 ## Project Structure
 
 - **backend/**: Python/FastAPI backend for video processing, AI generation (Gemini), and state management.
